@@ -1,0 +1,4 @@
+name: ideabook-plugin
+version: '1.0-SNAPSHOT'
+main: com.sawwik.ideabook.ideabookPlugin.IdeabookPlugin
+api-version: '1.21'
